@@ -1,0 +1,6 @@
+.DS_Store
+*.py[co]
+*.tmproj
+*~
+*.swp*
+production.py
